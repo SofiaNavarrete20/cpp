@@ -1,0 +1,12 @@
+void inicializarArreglo ();
+void dificultad ();
+void pintar ();
+void gotoxy (int x, int y);
+void dibujarcuerpo ();
+void guardarposicion ();
+void borrarcuerpo ();
+void Teclear (char &tecla);
+void comida ();
+bool gameover ();
+void puntosx ();
+void proceso (char &tecla, int &puntos);
